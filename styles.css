@@ -1,0 +1,60 @@
+body {
+    background-color: rgba(0, 0, 0, 0.883);
+    padding: 0;
+    margin: 0;
+    
+}
+
+.suidile {
+    margin-top: 5px;
+    background-color: black;
+    height: 80px;
+    font-size: 15px;
+    border-radius: 8px;
+    border: 3px solid;
+    border-color: rgba(255, 0, 0, 0.729);
+    
+}
+
+.right {
+    padding-left: 20px;
+    margin-right: 700px;
+}
+.deco{ 
+    text-decoration: none; 
+    letter-spacing: 2px;
+    font: size 15px;
+    font-family: Georgia ;
+}
+.span{
+    background-color: black;
+    height: 25em;
+    width: 20em;
+    border: 3px solid rgba(255, 0, 0, 0.729);
+    position: relative;
+    top: 13px;
+    border-radius: 20px; 
+}
+
+.body{
+    padding-inline: 20px;
+    background-color: black;
+    height: 60em;
+    width: 60em;
+    border: 3px solid rgba(255, 0, 0, 0.729);
+    top: 13px;
+    border-radius: 20px; 
+    position: absolute;
+    left: 11em; 
+    top: 102px;
+       
+}
+
+p{
+    font-size: 1.5em;
+}
+
+.ul{
+    font-size: 1.25em;
+}
+
